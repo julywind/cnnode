@@ -1,4 +1,4 @@
-FROM node:6.14.4
+FROM node
 
 MAINTAINER julywind@126.com
 
